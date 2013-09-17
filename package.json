@@ -1,0 +1,27 @@
+{
+  "name": "midi-controller",
+  "version": "0.0.0",
+  "description": "Create buttons and note matrices from duplex midi streams for midi controllers such as Launchpad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/midi-controller.git"
+  },
+  "keywords": [
+    "midi",
+    "filter",
+    "route",
+    "controller",
+    "button",
+    "launchpad"
+  ],
+  "dependencies": {
+    "midi-grabber": "*",
+    "through": "*"
+  },
+  "author": "Matt McKegg",
+  "license": "MIT"
+}
