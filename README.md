@@ -13,7 +13,7 @@ $ npm install midi-controller
 
 ```js
 var MidiStream = require('midi-stream')
-var MidiController = require('./index')
+var MidiController = require('midi-controller')
 
 var duplexStream = MidiStream('Launchpad')
 var launchpad = MidiController(duplexStream)
