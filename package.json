@@ -19,8 +19,11 @@
     "launchpad"
   ],
   "dependencies": {
-    "midi-grabber": "*",
-    "through": "*"
+    "midi-grabber": "~0.1.0",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "midi-stream": "~0.0.0"
   },
   "author": "Matt McKegg",
   "license": "MIT"
