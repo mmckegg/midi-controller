@@ -1,6 +1,6 @@
 {
   "name": "midi-controller",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Create buttons and note matrices from duplex midi streams for midi controllers such as Launchpad.",
   "main": "index.js",
   "scripts": {
